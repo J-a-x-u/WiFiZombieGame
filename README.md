@@ -2,7 +2,7 @@
 
 Simple Arduino version of the game idea from https://github.com/adangert/SpyTag-Wifi-game
 
-This verion is really simple. The first powered on ESP8266 becomes the zombie. Additional players start as humans. As soon as the go hiding and their signal drops, the game starts and the zombie starts seeking other players using the LEDs as range detector. On close encounter with a zombie the humans get infected and play on as zombies.
+This version is really simple. The first powered on ESP8266 becomes the zombie. Additional players start as humans. As soon as they go hiding and their signal drops, the game starts and the zombie starts seeking other players using the LEDs as range detector. On close encounter with a zombie the humans get infected and play on as zombies.
 
 # Hardware
 
